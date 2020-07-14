@@ -1,5 +1,5 @@
 h1{
-	background-image:url("images/galaxy.gif");
+	background-image:url(images/galaxy.gif);
 	background-repeat:no-repeat;
 	background-size:cover;
 	width:800px; 
@@ -13,7 +13,7 @@ h1{
 	}
 
 footer{
-	background-image:url("images/footer.jpg");
+	background-image:url(images/footer.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	border:1px solid blue;
